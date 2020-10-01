@@ -4,14 +4,15 @@ $screen-xxs-max: 480px;
 
 /* Device = Low Resolution Tablets, Mobiles (Landscape) */
 $screen-xs-min: 481px;
+$screen-xs-land: 600px;
 $screen-xs-max: 767px;
 
 /* Device = Tablets, Ipads (portrait) */
 $screen-sm-min: 768px;
-$screen-sm-max: 1024px;
+$screen-sm-max: 1023px;
 
 /* Device = Laptops, Desktops */
-$screen-md-min: 1025px;
+$screen-md-min: 1024px;
 $screen-md-max: 1280px;
 
 /* Device = Desktops */
